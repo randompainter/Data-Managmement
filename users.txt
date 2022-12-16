@@ -1,1 +1,0 @@
-[{"username": "joe", "password": "1234", "faves": [{"title": "Heathers", "genre": "Drama", "director": "Michael Lehmann"}, {"title": "The Conjuring", "genre": "Horror", "director": "James Wan"}]}, {"username": "1", "password": "1", "favorites": []}]

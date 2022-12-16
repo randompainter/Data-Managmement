@@ -1,0 +1,61 @@
+[{
+    "name": "Call Of The Goats",
+    "genre": "Horror",
+    "price": 40.99,
+    "ranking": 8
+},
+{
+    "name": "Forkknife",
+    "genre": "Puzzle",
+    "price": 50.99,
+    "ranking": 7
+
+},
+{
+    "name": "Lost In Woods",
+    "genre": "Action",
+    "price": 25.54,
+    "ranking": 3
+},
+{
+    "name": "Sleender Men",
+    "genre": "Mystery",
+    "price": 9.99,
+    "ranking": 4
+},
+{
+    "name": "Garbage Truck Simlator",
+    "genre": "Casual",
+    "price": 5.99,
+    "ranking": 2
+},
+{
+    "name": "Joe The Joker",
+    "genre": "Horror",
+    "price": 10.99,
+    "ranking": 1
+},
+{
+    "name": "Not Finding Bigfoot",
+    "genre": "Shooter",
+    "price": 1.99,
+    "ranking": 6
+},
+{
+    "name": "Valor Rant",
+    "genre": "Open World",
+    "price": 99,
+    "ranking": 5
+},
+{
+    "name": "Leauge Of Worthless",
+    "genre": "Battle Royale",
+    "price": 0,
+    "ranking": 10
+},
+{
+    "name": "Pokeman Beeps",
+    "genre": "Rhythm",
+    "price": 3,
+    "ranking": 9
+}]

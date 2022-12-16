@@ -1,0 +1,1 @@
+[{"username": "joe", "password": "1234", "favorites": [{"name": "Joe The Joker", "genre": "Horror", "ranking": "1"}]}, {"username": "1", "password": "1", "favorites": []}]

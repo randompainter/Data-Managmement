@@ -103,7 +103,7 @@ def newUser(username, password):
 		"password": password,
 		"favorites": [ ]
 	}
-
+# Search for existing users
 def find_account(info, item): 
     for i in range(len(users)):
         if users[i][info] == item:
